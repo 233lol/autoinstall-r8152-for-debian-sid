@@ -1,1 +1,2 @@
-# autoinstall-r8152-for-debian-sid
+  sudo ./auto.sh
+  reboot
