@@ -1,0 +1,1 @@
+# autoinstall-r8152-for-debian-sid
