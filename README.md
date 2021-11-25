@@ -1,2 +1,4 @@
-```sudo ./auto.sh
-  reboot```
+```
+sudo ./auto.sh
+reboot
+```
